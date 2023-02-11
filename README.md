@@ -1,1 +1,2 @@
 # 2048-java-game
+Implemented the game 2048 using 2-D arrays and object-oriented programming (OOP) in Java. Developed the Board class containing all methods required to construct a functioning 2048 game, including array manipulation and navigation of references to objects. Utilized the text and graphic drivers for testing the individual methods, achieving the goal of merging numbered tiles until reaching the 2048 tile. Represented the 2048 grid as a 4x4 array of integers and graded for individual operations.
